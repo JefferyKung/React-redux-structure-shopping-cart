@@ -1,3 +1,4 @@
 # react-final
 
-I follow this udemy class along side and completed this project with https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+I followed the steps in a tutorial on Udemy and adjusted to my version.
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/
